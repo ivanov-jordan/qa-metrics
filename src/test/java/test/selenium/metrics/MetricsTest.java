@@ -29,6 +29,7 @@ public class MetricsTest {
     private final static WebDriverType DRIVER_TYPE = WebDriverType.CHROME;
 
     private WebDriver webDriver;
+
     private BrowserMobProxy proxy;
 
     public void setUp() throws Exception {
